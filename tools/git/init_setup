@@ -1,0 +1,5 @@
+cd ../..
+
+npm install
+brew install pre-commit
+git config core.hooksPath .githooks
